@@ -1,4 +1,4 @@
-Website ini dibangun sebagai portofolio dari Pemrograman Mobile dengan menggunakan Laravel untuk membangun API dan Flutter untuk Aplikasi Mobile yang dibangun
+API ini dibangun sebagai portofolio dari Pemrograman Mobile dengan menggunakan Laravel untuk membangun API dan Flutter untuk Aplikasi Mobile yang dibangun
 
 Yang meliputi materi CRUD dengan menggunakan Database dan menggunakan framework Laravel 8
 Bertemakan Aplikasi Mobile E-Commerce pembelian tas
