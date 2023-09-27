@@ -1,0 +1,17 @@
+Website ini dibangun sebagai portofolio dari Pemrograman Mobile dengan menggunakan Laravel untuk membangun API dan Flutter untuk Aplikasi Mobile yang dibangun
+
+Yang meliputi materi CRUD dengan menggunakan Database dan menggunakan framework Laravel 8
+Bertemakan Aplikasi Mobile E-Commerce pembelian tas
+
+Menggunakan Local Server Laragon dengan menjalankan perintah 'php artisan serve' dan mengakses http://127.0.0.1:8000/
+
+Database berada pada file bagpacker-backend.sql jika ingin yang sudah terdapat data user
+Atau bisa dengan perintah 'php artisan migrate --seed' namun isi Database kosong
+
+*Saya sering membuat project Aplikasi Mobile menggunakan Flutter dan Laravel yang sering saya gunakan dalam membangun API dari Aplikasi Mobile tersebut
+
+Login Menggunakan User Kelompok 5 dengan
+Email : ihza130502@gmail.com
+dan
+Password : password
+
